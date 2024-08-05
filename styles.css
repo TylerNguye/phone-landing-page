@@ -132,7 +132,7 @@ li {
 }
 
 .signup-container {
-    height: 300px;
+    height: 350px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -141,7 +141,7 @@ li {
 .signup {
     background-color: #3882F6;
     border-radius: 3px;
-    padding: 16px 128px;
+    padding: 16px 64px;
     display: flex;
     align-items: center;
     gap: 96px;
@@ -157,5 +157,8 @@ h4 {
 }
 
 .footer {
-
+    text-align: center;
+    background-color: #1F2937;
+    padding-top: 30px;
+    height: 60px;
 }
