@@ -132,7 +132,28 @@ li {
 }
 
 .signup-container {
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.signup {
+    background-color: #3882F6;
+    border-radius: 3px;
+    padding: 16px 128px;
+    display: flex;
+    align-items: center;
+    gap: 96px;
+}
+
+h4 {
+    color: #F9FAF8;
+    font-size: 20px;
+}
+
+#bottom-btn {
+    border: 1px solid #F9FAF8;
 }
 
 .footer {
